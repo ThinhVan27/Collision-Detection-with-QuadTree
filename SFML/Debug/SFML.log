@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SFML\SFML\Source.cpp(42,60): warning C4244: 'argument': conversion from '__int64' to 'sf::Uint8', possible loss of data
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SFML\SFML\Source.cpp(42,46): warning C4244: 'argument': conversion from '__int64' to 'sf::Uint8', possible loss of data
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SFML\SFML\Source.cpp(42,32): warning C4244: 'argument': conversion from '__int64' to 'sf::Uint8', possible loss of data
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SFML\SFML\Source.cpp(99,29): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SFML\SFML\Source.cpp(235,27): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SFML\SFML\Source.cpp(252,23): warning C4244: 'argument': conversion from '__int64' to 'float', possible loss of data
+C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SFML\SFML\Source.cpp(234,12): warning C4930: 'sf::Mouse mouse(void)': prototyped function not called (was a variable definition intended?)
+  SFML.vcxproj -> C:\Users\PC\OneDrive - hcmut.edu.vn\Ảnh\Máy tính\STUDY\C++ Project\SFML\Debug\SFML.exe
